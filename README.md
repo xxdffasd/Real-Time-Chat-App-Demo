@@ -1,3 +1,5 @@
+CodTech Intern ID : CITS6692
+
 💬 Chat Application – Real-Time Messaging Platform
 
 A full-stack chat application that allows users to send and receive messages instantly. It uses Socket.IO to enable real-time communication without refreshing the page.
@@ -54,7 +56,7 @@ Server sends the message to the other user instantly
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/Yuvi264/chat-app.git
+git clone https://github.com/xxdffasd/Real-Time-Chat-App-Demo.git
 
 # Go to project folder
 cd chat-app
